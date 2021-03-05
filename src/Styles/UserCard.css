@@ -1,0 +1,30 @@
+.card-container {
+    background-color: orange;
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 3px;
+    margin: 0 15px 15px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.visit-btn {
+    background-color: #fff800;
+    color: #000;
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+}
