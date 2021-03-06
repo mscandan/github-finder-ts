@@ -143,3 +143,5 @@ dist
 .idea
 .vscode
 
+src/react-app-env.d.ts
+
